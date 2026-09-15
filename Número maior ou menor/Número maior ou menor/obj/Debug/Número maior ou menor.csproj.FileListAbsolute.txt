@@ -1,0 +1,7 @@
+C:\Users\matheus.laraujo7\Documents\C#\Número maior ou menor\Número maior ou menor\bin\Debug\Número maior ou menor.exe.config
+C:\Users\matheus.laraujo7\Documents\C#\Número maior ou menor\Número maior ou menor\bin\Debug\Número maior ou menor.exe
+C:\Users\matheus.laraujo7\Documents\C#\Número maior ou menor\Número maior ou menor\bin\Debug\Número maior ou menor.pdb
+C:\Users\matheus.laraujo7\Documents\C#\Número maior ou menor\Número maior ou menor\obj\Debug\Número maior ou menor.csproj.AssemblyReference.cache
+C:\Users\matheus.laraujo7\Documents\C#\Número maior ou menor\Número maior ou menor\obj\Debug\Número maior ou menor.csproj.CoreCompileInputs.cache
+C:\Users\matheus.laraujo7\Documents\C#\Número maior ou menor\Número maior ou menor\obj\Debug\Número maior ou menor.exe
+C:\Users\matheus.laraujo7\Documents\C#\Número maior ou menor\Número maior ou menor\obj\Debug\Número maior ou menor.pdb

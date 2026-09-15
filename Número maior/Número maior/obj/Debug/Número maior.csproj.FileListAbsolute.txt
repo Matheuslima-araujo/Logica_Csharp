@@ -1,0 +1,7 @@
+C:\Users\matheus.laraujo7\Documents\C#\Número maior\Número maior\bin\Debug\Número maior.exe.config
+C:\Users\matheus.laraujo7\Documents\C#\Número maior\Número maior\bin\Debug\Número maior.exe
+C:\Users\matheus.laraujo7\Documents\C#\Número maior\Número maior\bin\Debug\Número maior.pdb
+C:\Users\matheus.laraujo7\Documents\C#\Número maior\Número maior\obj\Debug\Número maior.csproj.AssemblyReference.cache
+C:\Users\matheus.laraujo7\Documents\C#\Número maior\Número maior\obj\Debug\Número maior.csproj.CoreCompileInputs.cache
+C:\Users\matheus.laraujo7\Documents\C#\Número maior\Número maior\obj\Debug\Número maior.exe
+C:\Users\matheus.laraujo7\Documents\C#\Número maior\Número maior\obj\Debug\Número maior.pdb

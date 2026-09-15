@@ -1,0 +1,7 @@
+C:\Users\matheus.laraujo7\Documents\C#\Número entre 10 e 50\Número entre 10 e 50\bin\Debug\Número entre 10 e 50.exe.config
+C:\Users\matheus.laraujo7\Documents\C#\Número entre 10 e 50\Número entre 10 e 50\bin\Debug\Número entre 10 e 50.exe
+C:\Users\matheus.laraujo7\Documents\C#\Número entre 10 e 50\Número entre 10 e 50\bin\Debug\Número entre 10 e 50.pdb
+C:\Users\matheus.laraujo7\Documents\C#\Número entre 10 e 50\Número entre 10 e 50\obj\Debug\Número entre 10 e 50.csproj.AssemblyReference.cache
+C:\Users\matheus.laraujo7\Documents\C#\Número entre 10 e 50\Número entre 10 e 50\obj\Debug\Número entre 10 e 50.csproj.CoreCompileInputs.cache
+C:\Users\matheus.laraujo7\Documents\C#\Número entre 10 e 50\Número entre 10 e 50\obj\Debug\Número entre 10 e 50.exe
+C:\Users\matheus.laraujo7\Documents\C#\Número entre 10 e 50\Número entre 10 e 50\obj\Debug\Número entre 10 e 50.pdb

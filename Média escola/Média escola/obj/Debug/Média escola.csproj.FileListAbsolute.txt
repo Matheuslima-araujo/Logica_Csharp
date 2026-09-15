@@ -1,0 +1,7 @@
+C:\Users\matheus.laraujo7\Documents\C#\Média escola\Média escola\bin\Debug\Média escola.exe.config
+C:\Users\matheus.laraujo7\Documents\C#\Média escola\Média escola\bin\Debug\Média escola.exe
+C:\Users\matheus.laraujo7\Documents\C#\Média escola\Média escola\bin\Debug\Média escola.pdb
+C:\Users\matheus.laraujo7\Documents\C#\Média escola\Média escola\obj\Debug\Média escola.csproj.AssemblyReference.cache
+C:\Users\matheus.laraujo7\Documents\C#\Média escola\Média escola\obj\Debug\Média escola.csproj.CoreCompileInputs.cache
+C:\Users\matheus.laraujo7\Documents\C#\Média escola\Média escola\obj\Debug\Média escola.exe
+C:\Users\matheus.laraujo7\Documents\C#\Média escola\Média escola\obj\Debug\Média escola.pdb

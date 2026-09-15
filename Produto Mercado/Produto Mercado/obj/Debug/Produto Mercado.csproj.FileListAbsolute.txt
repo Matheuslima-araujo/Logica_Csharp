@@ -1,0 +1,7 @@
+C:\Users\matheus.laraujo7\Documents\C#\Produto Mercado\Produto Mercado\bin\Debug\Produto Mercado.exe.config
+C:\Users\matheus.laraujo7\Documents\C#\Produto Mercado\Produto Mercado\bin\Debug\Produto Mercado.exe
+C:\Users\matheus.laraujo7\Documents\C#\Produto Mercado\Produto Mercado\bin\Debug\Produto Mercado.pdb
+C:\Users\matheus.laraujo7\Documents\C#\Produto Mercado\Produto Mercado\obj\Debug\Produto Mercado.csproj.AssemblyReference.cache
+C:\Users\matheus.laraujo7\Documents\C#\Produto Mercado\Produto Mercado\obj\Debug\Produto Mercado.csproj.CoreCompileInputs.cache
+C:\Users\matheus.laraujo7\Documents\C#\Produto Mercado\Produto Mercado\obj\Debug\Produto Mercado.exe
+C:\Users\matheus.laraujo7\Documents\C#\Produto Mercado\Produto Mercado\obj\Debug\Produto Mercado.pdb
