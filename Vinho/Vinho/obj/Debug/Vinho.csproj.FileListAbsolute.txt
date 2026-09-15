@@ -1,0 +1,7 @@
+C:\Users\matheus.laraujo7\Documents\C#\Vinho\Vinho\bin\Debug\Vinho.exe.config
+C:\Users\matheus.laraujo7\Documents\C#\Vinho\Vinho\bin\Debug\Vinho.exe
+C:\Users\matheus.laraujo7\Documents\C#\Vinho\Vinho\bin\Debug\Vinho.pdb
+C:\Users\matheus.laraujo7\Documents\C#\Vinho\Vinho\obj\Debug\Vinho.csproj.AssemblyReference.cache
+C:\Users\matheus.laraujo7\Documents\C#\Vinho\Vinho\obj\Debug\Vinho.csproj.CoreCompileInputs.cache
+C:\Users\matheus.laraujo7\Documents\C#\Vinho\Vinho\obj\Debug\Vinho.exe
+C:\Users\matheus.laraujo7\Documents\C#\Vinho\Vinho\obj\Debug\Vinho.pdb
