@@ -1,0 +1,7 @@
+C:\Users\matheus.laraujo7\Documents\C#\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe.config
+C:\Users\matheus.laraujo7\Documents\C#\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe
+C:\Users\matheus.laraujo7\Documents\C#\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.pdb
+C:\Users\matheus.laraujo7\Documents\C#\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.AssemblyReference.cache
+C:\Users\matheus.laraujo7\Documents\C#\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\matheus.laraujo7\Documents\C#\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.exe
+C:\Users\matheus.laraujo7\Documents\C#\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.pdb
