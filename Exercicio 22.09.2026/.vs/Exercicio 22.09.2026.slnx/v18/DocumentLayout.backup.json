@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.laraujo7\\Documents\\C#\\Exercicio 22.09.2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33D0012-E522-44B7-8D0A-6A16767F7E06}|Exercicio 22.09.2026\\Exercicio 22.09.2026.csproj|c:\\users\\matheus.laraujo7\\documents\\c#\\exercicio 22.09.2026\\exercicio 22.09.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33D0012-E522-44B7-8D0A-6A16767F7E06}|Exercicio 22.09.2026\\Exercicio 22.09.2026.csproj|solutionrelative:exercicio 22.09.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.laraujo7\\Documents\\C#\\Exercicio 22.09.2026\\Exercicio 22.09.2026\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 22.09.2026\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.laraujo7\\Documents\\C#\\Exercicio 22.09.2026\\Exercicio 22.09.2026\\Program.cs",
+              "RelativeToolTip": "Exercicio 22.09.2026\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T11:38:09.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
